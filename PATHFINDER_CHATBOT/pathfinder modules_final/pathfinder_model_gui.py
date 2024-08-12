@@ -1,7 +1,6 @@
 # import the libraries
 import nltk
 from nltk.corpus import stopwords
-
 nltk.download('stopwords')
 from nltk.tokenize import RegexpTokenizer
 # tokenizes and removes punctuation
