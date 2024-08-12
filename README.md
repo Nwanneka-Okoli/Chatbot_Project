@@ -5,9 +5,9 @@ The Mental Health Chatbot is a conversational AI designed to provide mental heal
 Natural Language Processing (NLP): Utilizes advanced NLP techniques to understand and respond to user queries effectively.
 User-Friendly Interface: Designed with a simple and intuitive interface that makes interaction easy and accessible.
 ## Technology Stack
-Python
-Tkinter
-NLP
+Python, 
+Tkinter,
+NLP.
 ## Usage
 Once the application is running, users can engage with the chatbot through the web interface. The chatbot can respond to various mental health-related queries and provide support.
 ## Disclaimer
